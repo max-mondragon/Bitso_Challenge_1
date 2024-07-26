@@ -4,6 +4,7 @@ Hello!
 Here is the documentation for my Bitso Challenge 1.
 This challenge consists on the calculation of the spread based on best ask and best bid, obtained from the Bitso API.
 Data should be generated every 1 second during periods of 10 minutes. Then exported as CSV file.
+
 Created by: **Max Mondragon**.
 
 
